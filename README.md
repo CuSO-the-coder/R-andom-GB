@@ -1,5 +1,5 @@
 # R-andom-GB
-Radom RGB picker used for Angulars NFT collection
+Radom RGB picker used for Angular NFT collection
 
 _______________________________________________________________
 
